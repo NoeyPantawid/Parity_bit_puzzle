@@ -1,3 +1,7 @@
 demo.mp4
 ui.ui
 test.py
+build
+dist
+main.spec
+resource.qrc
